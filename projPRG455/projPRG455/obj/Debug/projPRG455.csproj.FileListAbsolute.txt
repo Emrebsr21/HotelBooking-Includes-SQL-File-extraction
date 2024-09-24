@@ -1,0 +1,14 @@
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\bin\Debug\projPRG455.exe.config
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\bin\Debug\projPRG455.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\bin\Debug\projPRG455.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\obj\Debug\projPRG455.csproj.AssemblyReference.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\obj\Debug\projPRG455.welcomePage.resources
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\obj\Debug\projPRG455.Properties.Resources.resources
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\obj\Debug\projPRG455.csproj.GenerateResource.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\obj\Debug\projPRG455.csproj.CoreCompileInputs.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\obj\Debug\projPRG455.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\obj\Debug\projPRG455.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\bin\Debug\projEmreBaser.mdf
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\bin\Debug\projEmreBaser_log.ldf
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\obj\Debug\projPRG455.Form2.resources
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\projPRG455\projPRG455\obj\Debug\projPRG455.Form3.resources
